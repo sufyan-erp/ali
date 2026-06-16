@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wall Pong</string>
+    <string name="game_over_lost_message">opps you lost zafaryab</string>
+    <string name="play_button">Play</string>
+    <string name="try_again">Try Again</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="high_scores">High Scores</string>
+    <string name="score_label">Score: %d</string>
+    <string name="high_score_label">High Score: %d</string>
+    <string name="menu_title">Wall Pong</string>
+    <string name="menu_subtitle">Bounce against the wall. Defend your line.</string>
+</resources>

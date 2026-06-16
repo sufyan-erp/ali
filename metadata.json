@@ -1,0 +1,6 @@
+{
+  "name": "Wall Pong",
+  "description": "An exciting offline retro ping pong game played with a single paddle against a brick wall, with high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
